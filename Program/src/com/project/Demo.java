@@ -7,6 +7,7 @@ public class Demo {
 		Demo emp1 = new Demo();
 		boolean ans = emp.equals(emp1);
 		System.out.println(ans);
+		System.out.println("HELlo reena");
 	}
 
 }
